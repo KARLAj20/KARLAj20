@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @KARLAj20
 
-I am a student of mechatronic engineering, in my repositories you can find a base of some projects in 'STM32F7XXXX' (SOFWARE KEIL),
+I am a student of mechatronic engineering, in my repositories you can find a base of some projects in 'STM32F7XXXX' (SOFTWARE KEIL),
 classes created in neatbeens and codes in c, c ++, java and python, also projects in matlab.
 
 I hope that all the information in my repositories can be of help for new programmers and for the community in general that needs it.
